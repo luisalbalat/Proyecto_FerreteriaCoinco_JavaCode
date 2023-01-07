@@ -48,14 +48,6 @@ Daré una explicación detallada de mi parte del negocio y del negocio en genera
 
 En el Módulo que yo desarrollé, se pueden apreciar las interfaces gráficas de gestión de Informe, Proveedores, Usuarios. Ademas de implementar la clase Proveedor, desarrollé el Trabajo con Archivos correspondiente a la clase Proveedor, con el fin de guardar y cargar los datos de esta clase en una tabla formulario. 
 ***
-- LOGIN:
-***
-![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/Captura.PNG)
-***
-- MENÚ DE GERENTE:
-***
-![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/1.PNG)
-***
 - MENÚ DE ADMINISTRADOR:
 ***
 ![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/2.PNG)
@@ -67,4 +59,22 @@ En el Módulo que yo desarrollé, se pueden apreciar las interfaces gráficas de
 - INICIAR COMO INVITADO:
 ***
 ![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/4.PNG)
+***
+- LAZARO ARIEL MACIAS GONZALEZ:
+***
+A mi me corresponde en mi parte del trabajo abarcar todo lo relacionado con la clase informe, clase Gerente y el login de la aplicacion, ademas de apoyar en el trabajo y gestion de archivos.
+En el modulo que me dieron a desarrollar se observan las interfaces correspondientes al menu de Gerente asi como al login ademas de implementar y realizar el trabajo con archivos de la clase informe y de la clase usuario
+***
+Menu de Gerente: El gerente puede acceder a la gestion de usuarios, proveedores y acceder a la informacion de los usuarios.
+Clase Informe: El administrador almacena los datos relacionados a la ferreteria.
+Clase Usuario: Tiene como atributos nombre de usuario y contraseña lo cual exige el login para poder iniciar en la aplicacion.
+Login:Desde este se da la posibilidad de acceder al menu deseado dependiendo de la relacion de la persona con el negocio ya sea gerente, administrador o usuario, ademas de tener informacion promocional relacionada con la ferreteria.
+***
+- LOGIN:
+***
+![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/Captura.PNG)
+***
+- MENÚ DE GERENTE:
+***
+![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/1.PNG)
 ***
