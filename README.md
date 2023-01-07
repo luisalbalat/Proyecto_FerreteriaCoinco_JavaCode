@@ -66,8 +66,11 @@ A mi me corresponde en mi parte del trabajo abarcar todo lo relacionado con la c
 En el modulo que me dieron a desarrollar se observan las interfaces correspondientes al menu de Gerente asi como al login ademas de implementar y realizar el trabajo con archivos de la clase informe y de la clase usuario
 ***
 Menu de Gerente: El gerente puede acceder a la gestion de usuarios, proveedores y acceder a la informacion de los usuarios.
+
 Clase Informe: El administrador almacena los datos relacionados a la ferreteria.
+
 Clase Usuario: Tiene como atributos nombre de usuario y contraseña lo cual exige el login para poder iniciar en la aplicacion.
+
 Login:Desde este se da la posibilidad de acceder al menu deseado dependiendo de la relacion de la persona con el negocio ya sea gerente, administrador o usuario, ademas de tener informacion promocional relacionada con la ferreteria.
 ***
 - LOGIN:
