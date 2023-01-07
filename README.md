@@ -48,4 +48,4 @@ En el Módulo que yo desarrollé, se pueden apreciar las interfaces gráficas de
 ***
 ![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/Captura.PNG)
 ![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/1.PNG)
-![Screenshot]
+![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/2.PNG)
