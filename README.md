@@ -14,8 +14,10 @@ interfaces gráficas atractivas y fáciles de operar para todos los Usuarios que
 - LENGUAJE, ARQUITECTURA Y METODOLOGÍA:
 ***
 El lenguaje utilizado fue Java(7.51).
+
 En la realización de este proyecto se obtuvo el Patrón de Arquitectura de Softwere (Modelo, Vista, Controlador) desarrollando la aplicación de forma modular, 
 separando los datos y principalmente lo que es la lógica del negocio, su representación y su visualización.
+
 También se utiliza la Metodología Agil ya que esta busca proporcionar en poco tiempo pequeñas piezas de software en funcionamiento para aumentar la 
 satisfacción del cliente. Estas metodologías utilizan enfoques flexibles y el trabajo en equipo para ofrecer mejoras constantes basadas en el desarrollo 
 iterativo e incremental, donde los requisitos y soluciones evolucionan con el tiempo según la necesidad del proyecto.
