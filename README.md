@@ -48,8 +48,22 @@ Daré una explicación detallada de mi parte del negocio y del negocio en genera
 
 En el Módulo que yo desarrollé, se pueden apreciar las interfaces gráficas de gestión de Informe, Proveedores, Usuarios. Ademas de implementar la clase Proveedor, desarrollé el Trabajo con Archivos correspondiente a la clase Proveedor, con el fin de guardar y cargar los datos de esta clase en una tabla formulario. 
 ***
+- LOGIN:
+***
 ![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/Captura.PNG)
+***
+- MENÚ DE GERENTE:
+***
 ![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/1.PNG)
+***
+- MENÚ DE ADMINISTRADOR:
 ![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/2.PNG)
+***
+- MENÚ DE CLIENTE:
+***
 ![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/3.PNG)
+***
+- INICIAR COMO INVITADO:
+***
 ![Screenshot](https://github.com/luisalbalat/Proyecto_FerreteriaCoinco_JavaCode/blob/main/4.PNG)
+***
